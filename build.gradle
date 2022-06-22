@@ -17,4 +17,4 @@ dependencies {
 test {
     useJUnitPlatform()
 }
-git commit —amend —no-edit —date "Jun 22 08:00:00 2021 +0000"
+git commit --amend --no-edit --date "Jun 22 08:00:00 2021 +0000"
